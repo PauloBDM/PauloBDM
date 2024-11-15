@@ -9,7 +9,6 @@
 ![Paulo GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaoBDM&theme=dracula)
 
 
-
 ### Tecnologias que eu uso no meu dia
     
 <div style= "display: inline_block"><br/>
