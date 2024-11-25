@@ -31,9 +31,9 @@ Se você busca um desenvolvedor que não apenas **codifica**, mas **transforma**
 
 ### 📈 **Minhas Conquistas no GitHub**:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulaoBDM&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloBDM&theme=dracula)
 
-![Paulo GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaoBDM&theme=dracula)
+![Paulo GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBDM&theme=dracula)
 
 ---
 
