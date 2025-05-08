@@ -36,6 +36,3 @@ Se você busca um desenvolvedor que não apenas **codifica**, mas **transforma**
 
 ---
 
-### 🚀 **Vamos transformar o futuro juntos?**
-
-Se você tem uma ideia brilhante ou um projeto em mente, **vamos conversar**. Estou pronto para enfrentar novos desafios e construir soluções digitais de **impacto**!
